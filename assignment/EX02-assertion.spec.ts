@@ -111,3 +111,4 @@ test.describe('EX02 - Assertions (using fixtures)', () => {
     await expect(bookBtn).toBeEnabled();
   });
 });
+
